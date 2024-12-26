@@ -64,7 +64,7 @@ Two boxes are drawn adjacent to the zebra-crossing. Whenever a person raises the
 
 
 
-<img src="https://github.com/user-attachments/assets/1f136c3b-a8c4-4a14-9b04-9a4ab4f087fe" width="480">
+<img src="https://github.com/user-attachments/assets/1f136c3b-a8c4-4a14-9b04-9a4ab4f087fe" width="160">
 
 
 
