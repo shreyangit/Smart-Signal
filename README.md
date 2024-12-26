@@ -1,6 +1,5 @@
 # Smart-Signal
 Smart Signal is an openCV project integrated with IoT, in this case RaspberryPi4. 
-![image](https://github.com/user-attachments/assets/87853d09-61d4-4b17-aa05-005b3a9e8617)
 
 Project Topic:
  Development of an intelligent pedestrian crossing system utilizing computer vision to enhance safety at road crossings.
