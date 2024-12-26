@@ -13,7 +13,7 @@ A reliable and responsive system that automatically activates red lights upon de
 <img src="https://github.com/user-attachments/assets/4e720823-c4d4-451c-a6bc-086e2f202d29" width="480">
 
 
-Methodology
+<h1>Methodology</h1>
 Devices which were used in the project are :
  Raspberry Pi 4  
  Camera Module  
@@ -22,15 +22,14 @@ Devices which were used in the project are :
  Jumper Wires  
  Power Supply  
  MicroSD Card  
-<img src="https://github.com/user-attachments/assets/cdfc0820-48c5-43e7-a44e-be8205be757c" width="480">
 
-
+<h1>Here are the steps we followed:</h1>
 
 
 <img src="https://github.com/user-attachments/assets/b67243f9-0dd1-4046-9f42-98b5a4ec9cb9" width="480">
 
 
-Special thanks to <img src="https://github.com/user-attachments/assets/0bc4e8fc-3d9e-4759-a940-9a9d79e26c1d" width="160"> library
+Special thanks to <img src="https://github.com/user-attachments/assets/0bc4e8fc-3d9e-4759-a940-9a9d79e26c1d" width="100" align="center"> library
 
 
 
