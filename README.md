@@ -10,7 +10,8 @@ Test the system in various conditions to refine detection accuracy and responsiv
 
 Expected Results:
 A reliable and responsive system that automatically activates red lights upon detecting pedestrians or hand signals.
-![image](https://github.com/user-attachments/assets/4e720823-c4d4-451c-a6bc-086e2f202d29)
+<img src="https://github.com/user-attachments/assets/4e720823-c4d4-451c-a6bc-086e2f202d29" width="48">
+
 
 Methodology
 Devices which were used in the project are :
