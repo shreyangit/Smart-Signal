@@ -22,21 +22,30 @@ Devices which were used in the project are :
  Jumper Wires  
  Power Supply  
  MicroSD Card  
-![image](https://github.com/user-attachments/assets/cdfc0820-48c5-43e7-a44e-be8205be757c)
+<img src="https://github.com/user-attachments/assets/cdfc0820-48c5-43e7-a44e-be8205be757c" width="480">
 
 
-![image](https://github.com/user-attachments/assets/b67243f9-0dd1-4046-9f42-98b5a4ec9cb9)
 
-Special thanks to Ultralytics library
-![image](https://github.com/user-attachments/assets/0bc4e8fc-3d9e-4759-a940-9a9d79e26c1d)
+
+<img src="https://github.com/user-attachments/assets/b67243f9-0dd1-4046-9f42-98b5a4ec9cb9" width="480">
+
+
+Special thanks to <img src="https://github.com/user-attachments/assets/0bc4e8fc-3d9e-4759-a940-9a9d79e26c1d" width="160"> library
+
+
+
 
 
 Prototype/Experiment Details
 The camera will capture real time video on which Raspberry Pi will act upon using the YoloV8 model.
-![image](https://github.com/user-attachments/assets/377e9c18-38e5-4066-b3ac-bb3b3ef591e3)
+
+<img src="https://github.com/user-attachments/assets/377e9c18-38e5-4066-b3ac-bb3b3ef591e3" width="480">
+
 
 Red Light Pin is adjusted to Pin No. 18.
-![image](https://github.com/user-attachments/assets/5894312a-1842-42af-8fcb-8a06cfb09728)
+
+<img src="https://github.com/user-attachments/assets/5894312a-1842-42af-8fcb-8a06cfb09728" width="480">
+
 
 
 
@@ -46,14 +55,18 @@ Red Light will also turn on whenever a person, even when not on the road, but on
 Power Supply is provided to Raspberry Pi from adapter.
 
 Results & Discussion
-![image](https://github.com/user-attachments/assets/11cf81c7-1205-4464-89dc-c6ae0ec1001b)
+
+<img src="https://github.com/user-attachments/assets/11cf81c7-1205-4464-89dc-c6ae0ec1001b" width="480">
+
 
 The Red LEDs light up as intended. A box was drawn on zebra-crossing. The Yolo model lights up Red Light whenever a person is detected inside the box drawn.
 Two boxes are drawn adjacent to the zebra-crossing. Whenever a person raises their hand, pose detection function lights up the red light.
 
 
 
-![image](https://github.com/user-attachments/assets/1f136c3b-a8c4-4a14-9b04-9a4ab4f087fe)
+
+<img src="https://github.com/user-attachments/assets/1f136c3b-a8c4-4a14-9b04-9a4ab4f087fe" width="480">
+
 
 
 
