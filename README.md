@@ -1,19 +1,19 @@
 # Smart-Signal
 Smart Signal is an openCV project integrated with IoT, in this case RaspberryPi4. 
 
-Project Topic:
+<h3>Project Topic:</h3>
  Development of an intelligent pedestrian crossing system utilizing computer vision to enhance safety at road crossings.
 
-Objective: 
+<h3>Objective:</h3> 
 To detect pedestrians and their intentions (e.g., raising hands) in real-time using a Raspberry Pi 4 and YOLOv8 model, activating red LED lights to signal vehicles to stop.
 Test the system in various conditions to refine detection accuracy and responsiveness.
 
-Expected Results:
+<h3>Expected Results:</h3>
 A reliable and responsive system that automatically activates red lights upon detecting pedestrians or hand signals.
 <img src="https://github.com/user-attachments/assets/4e720823-c4d4-451c-a6bc-086e2f202d29" width="480">
 
 
-<h1>Methodology</h1>
+<h2>Methodology</h2>
 Devices which were used in the project are :
  Raspberry Pi 4  
  Camera Module  
@@ -23,7 +23,7 @@ Devices which were used in the project are :
  Power Supply  
  MicroSD Card  
 
-<h1>Here are the steps we followed:</h1>
+<h2>Here are the steps we followed:</h2>
 
 
 <img src="https://github.com/user-attachments/assets/b67243f9-0dd1-4046-9f42-98b5a4ec9cb9" width="480">
@@ -35,7 +35,7 @@ Special thanks to <img src="https://github.com/user-attachments/assets/0bc4e8fc-
 
 
 
-Prototype/Experiment Details
+<h2>Prototype/Experiment Details</h2>
 The camera will capture real time video on which Raspberry Pi will act upon using the YoloV8 model.
 
 <img src="https://github.com/user-attachments/assets/377e9c18-38e5-4066-b3ac-bb3b3ef591e3" width="480">
@@ -53,7 +53,7 @@ Red Light will turn on whenever a person is detected on the zebra-crossing.
 Red Light will also turn on whenever a person, even when not on the road, but on the edge, raises hand, signaling the car to stop.
 Power Supply is provided to Raspberry Pi from adapter.
 
-Results & Discussion
+<h2>Results & Discussion</h2>
 
 <img src="https://github.com/user-attachments/assets/11cf81c7-1205-4464-89dc-c6ae0ec1001b" width="480">
 
@@ -70,11 +70,11 @@ Two boxes are drawn adjacent to the zebra-crossing. Whenever a person raises the
 
 
 
-CONCLUSION:
+<h2>CONCLUSION:</h2>
  
 This project demonstrates an ML-based pedestrian crossing system using computer vision to detect pedestrians and interpret hand gestures as crossing intent. By combining YOLOv8’s pose detection on a Raspberry Pi, the system can activate red LED signals to alert vehicles when pedestrians are detected on a crossing or are preparing to cross. This setup provides a  scalable solution for enhancing pedestrian safety in various urban settings. 
 
-APPLICATIONS:
+<h2>APPLICATIONS:</h2>
  
 Urban Crosswalks in Smart Cities
 School Zones
